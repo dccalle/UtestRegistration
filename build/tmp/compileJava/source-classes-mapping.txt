@@ -1,0 +1,30 @@
+co/com/choucair/certification/UtestRegistration/util/Constant.java
+ co.com.choucair.certification.UtestRegistration.util.Constant
+co/com/choucair/certification/UtestRegistration/userinterface/StartRegistrationPage.java
+ co.com.choucair.certification.UtestRegistration.userinterface.StartRegistrationPage
+co/com/choucair/certification/UtestRegistration/userinterface/PersonalDataPage.java
+ co.com.choucair.certification.UtestRegistration.userinterface.PersonalDataPage
+co/com/choucair/certification/UtestRegistration/userinterface/UtestPage.java
+ co.com.choucair.certification.UtestRegistration.userinterface.UtestPage
+co/com/choucair/certification/UtestRegistration/tasks/OpenUp.java
+ co.com.choucair.certification.UtestRegistration.tasks.OpenUp
+co/com/choucair/certification/UtestRegistration/tasks/StartRegistration.java
+ co.com.choucair.certification.UtestRegistration.tasks.StartRegistration
+co/com/choucair/certification/UtestRegistration/userinterface/LocationPage.java
+ co.com.choucair.certification.UtestRegistration.userinterface.LocationPage
+co/com/choucair/certification/UtestRegistration/userinterface/DevicesPage.java
+ co.com.choucair.certification.UtestRegistration.userinterface.DevicesPage
+co/com/choucair/certification/UtestRegistration/model/UtestData.java
+ co.com.choucair.certification.UtestRegistration.model.UtestData
+co/com/choucair/certification/UtestRegistration/questions/Answer.java
+ co.com.choucair.certification.UtestRegistration.questions.Answer
+co/com/choucair/certification/UtestRegistration/tasks/FillOutLocationData.java
+ co.com.choucair.certification.UtestRegistration.tasks.FillOutLocationData
+co/com/choucair/certification/UtestRegistration/userinterface/LastStepPage.java
+ co.com.choucair.certification.UtestRegistration.userinterface.LastStepPage
+co/com/choucair/certification/UtestRegistration/tasks/FillOutPersonalData.java
+ co.com.choucair.certification.UtestRegistration.tasks.FillOutPersonalData
+co/com/choucair/certification/UtestRegistration/tasks/FillOutSecurityData.java
+ co.com.choucair.certification.UtestRegistration.tasks.FillOutSecurityData
+co/com/choucair/certification/UtestRegistration/tasks/FillOutDevicesData.java
+ co.com.choucair.certification.UtestRegistration.tasks.FillOutDevicesData

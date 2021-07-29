@@ -1,0 +1,4 @@
+co/com/choucair/certification/UtestRegistration/runners/UtestRegistration.java
+ co.com.choucair.certification.UtestRegistration.runners.UtestRegistration
+co/com/choucair/certification/UtestRegistration/stepdefinitions/UtestRegistrationStepDefinitions.java
+ co.com.choucair.certification.UtestRegistration.stepdefinitions.UtestRegistrationStepDefinitions
